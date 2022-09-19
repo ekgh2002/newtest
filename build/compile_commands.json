@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ubuntu/codetest/newtest/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/codetest/newtest/./Button -I/home/ubuntu/codetest/newtest/./Led -g -Wall -o CMakeFiles/newTest.dir/main.cpp.o -c /home/ubuntu/codetest/newtest/main.cpp",
+  "file": "/home/ubuntu/codetest/newtest/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/codetest/newtest/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/codetest/newtest/./Button -I/home/ubuntu/codetest/newtest/./Led -g -Wall -o CMakeFiles/newTest.dir/Button/Button.cpp.o -c /home/ubuntu/codetest/newtest/Button/Button.cpp",
+  "file": "/home/ubuntu/codetest/newtest/Button/Button.cpp"
+},
+{
+  "directory": "/home/ubuntu/codetest/newtest/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/ubuntu/codetest/newtest/./Button -I/home/ubuntu/codetest/newtest/./Led -g -Wall -o CMakeFiles/newTest.dir/Led/Led.cpp.o -c /home/ubuntu/codetest/newtest/Led/Led.cpp",
+  "file": "/home/ubuntu/codetest/newtest/Led/Led.cpp"
+}
+]
